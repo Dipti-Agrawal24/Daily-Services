@@ -34,6 +34,10 @@
           <option name="url" value="https://github.com/SharmaNishant/MobIVRS.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Dipti-Agrawal24/Daily-Services.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="Z:\App Development\Android Studio\Assignments" />
